@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+Bium!Bium! Je-llow YouTube 2.0
+<%-- <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -12,4 +13,4 @@
      Latest news! Latest news! Latest news! Latest news!</span></marquee>
     </div>
   </body>
-</html>
+</html> --%>
